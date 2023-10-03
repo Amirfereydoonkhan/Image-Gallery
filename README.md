@@ -1,9 +1,9 @@
 Image Gallery Using
-/n
+<br />
 Tailwind
-/n
+<br />
 React
-/n
+<br />
 useState, useEffect
-/n
+<br />
 API = PIXABAY
